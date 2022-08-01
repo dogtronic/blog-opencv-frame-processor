@@ -1,6 +1,6 @@
 # opencvframeprocessor
 
-The project includes the code from the entry: <link>.
+The project includes the code from the article: link here.
 
 Required steps to run:
 - Add downloaded OpenCV library to ios directory (it should be have name opencv2.framework)
